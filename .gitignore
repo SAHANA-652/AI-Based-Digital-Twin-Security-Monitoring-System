@@ -1,8 +1,10 @@
-
-# Python
+# Python virtual environments
 backend/venv/
+backend/myvenv/
 venv/
 .venv/
+
+# Python cache and test files
 __pycache__/
 *.py[cod]
 .pytest_cache/
