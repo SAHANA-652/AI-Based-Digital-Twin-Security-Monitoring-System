@@ -1,0 +1,33 @@
+# Core
+fastapi
+uvicorn[standard]
+websockets
+python-multipart
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+
+# Telemetry
+psutil
+
+# ML
+scikit-learn
+numpy
+pandas
+joblib
+pytest
+httpx
+
+# Utilities
+pydantic
+pydantic-settings
+python-dateutil
+aiofiles
+jinja2
+requests
